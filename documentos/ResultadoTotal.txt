@@ -1,0 +1,2 @@
+Total de testes realizados: 500
+Total de testes com sucesso (Guloso encontrou mesmo resultado que Força Bruta): 74

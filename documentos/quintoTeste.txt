@@ -1,0 +1,500 @@
+mai 12, 2022 4:30:46 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 1 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='75', itens='[Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=9}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:30:48 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 2 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=7}, Item{peso=8, value=11}, Item{peso=8, value=6}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='71', itens='[Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:30:50 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 3 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='79', itens='[Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='70', itens='[Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:30:52 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 4 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='62', itens='[Item{peso=8, value=5}, Item{peso=9, value=9}, Item{peso=8, value=5}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=6}, Item{peso=8, value=8}, Item{peso=9, value=8}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='54', itens='[Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=3}, Item{peso=9, value=7}, Item{peso=9, value=6}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:30:54 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 5 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='82', itens='[Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='82', itens='[Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:30:56 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 6 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='71', itens='[Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=9, value=8}, Item{peso=9, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='60', itens='[Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=1}, Item{peso=9, value=8}, Item{peso=8, value=3}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:30:58 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 7 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=7}, Item{peso=9, value=8}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='68', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=4}, Item{peso=8, value=4}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:00 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 8 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=11}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:02 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 9 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='71', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=7}, Item{peso=8, value=5}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='67', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:04 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 10 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:06 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 11 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='82', itens='[Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:08 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 12 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='77', itens='[Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='77', itens='[Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:10 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 13 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=11}, Item{peso=9, value=8}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='78', itens='[Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:12 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 14 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='73', itens='[Item{peso=8, value=4}, Item{peso=9, value=11}, Item{peso=9, value=8}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='69', itens='[Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=4}, Item{peso=8, value=4}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:14 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 15 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='70', itens='[Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=7}, Item{peso=8, value=4}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='61', itens='[Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=9, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:15 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 16 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='69', itens='[Item{peso=8, value=4}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=6}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='67', itens='[Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=9, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:17 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 17 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='85', itens='[Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='79', itens='[Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:19 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 18 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='80', itens='[Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='69', itens='[Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:20 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 19 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='78', itens='[Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='67', itens='[Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:22 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 20 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='76', itens='[Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:24 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 21 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:26 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 22 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='81', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='79', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:27 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 23 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=7}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='75', itens='[Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=7}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:29 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 24 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='76', itens='[Item{peso=9, value=10}, Item{peso=8, value=6}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='69', itens='[Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=1}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:30 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 25 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=9}, Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='65', itens='[Item{peso=9, value=9}, Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=9, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:32 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 26 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='79', itens='[Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=7}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=7}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='74', itens='[Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:33 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 27 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='65', valorTotal='66', itens='[Item{peso=8, value=6}, Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=6}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='61', itens='[Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=7}, Item{peso=8, value=4}, Item{peso=9, value=3}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:35 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 28 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='74', itens='[Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=8}, Item{peso=8, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='71', itens='[Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=5}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:37 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 29 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='74', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='74', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=8, value=8}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:38 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 30 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='67', itens='[Item{peso=8, value=10}, Item{peso=9, value=7}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=7}, Item{peso=8, value=7}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='56', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=4}, Item{peso=9, value=2}, Item{peso=9, value=4}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:40 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 31 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='72', itens='[Item{peso=9, value=11}, Item{peso=8, value=5}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=6}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='70', itens='[Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:42 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 32 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='82', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='73', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:44 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 33 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='80', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='80', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:45 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 34 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='82', itens='[Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='82', itens='[Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:31:47 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 35 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='70', itens='[Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=8}, Item{peso=8, value=7}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='63', itens='[Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=6}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:49 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 36 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='84', itens='[Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='79', itens='[Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:51 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 37 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='70', itens='[Item{peso=8, value=6}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=7}, Item{peso=9, value=8}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='62', itens='[Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=5}, Item{peso=8, value=5}, Item{peso=9, value=3}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:53 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 38 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='66', itens='[Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=8}, Item{peso=8, value=7}, Item{peso=9, value=8}, Item{peso=8, value=7}, Item{peso=8, value=6}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='52', itens='[Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=1}, Item{peso=8, value=5}, Item{peso=9, value=5}, Item{peso=8, value=3}, Item{peso=9, value=8}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:55 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 39 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='76', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='69', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:56 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 40 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=8, value=7}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=7}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='68', itens='[Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:31:58 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 41 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='78', itens='[Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='78', itens='[Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:32:00 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 42 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='84', itens='[Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='81', itens='[Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:01 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 43 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='61', valorTotal='63', itens='[Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=6}, Item{peso=9, value=9}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='59', itens='[Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:03 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 44 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='66', itens='[Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=9, value=8}, Item{peso=8, value=11}, Item{peso=8, value=6}, Item{peso=9, value=10}, Item{peso=8, value=6}, Item{peso=8, value=6}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='52', itens='[Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=2}, Item{peso=9, value=8}, Item{peso=9, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:05 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 45 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='61', valorTotal='71', itens='[Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='71', itens='[Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:32:07 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 46 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='68', itens='[Item{peso=9, value=8}, Item{peso=9, value=8}, Item{peso=8, value=7}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=7}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='49', itens='[Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=5}, Item{peso=9, value=1}, Item{peso=8, value=3}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:08 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 47 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='73', itens='[Item{peso=8, value=8}, Item{peso=8, value=7}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='73', itens='[Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=7}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:32:10 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 48 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=8}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='75', itens='[Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=8, value=5}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:13 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 49 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='74', itens='[Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=8}, Item{peso=8, value=8}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='65', valorTotal='68', itens='[Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:15 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 50 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='67', itens='[Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=8}, Item{peso=9, value=9}, Item{peso=8, value=7}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='55', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=1}, Item{peso=8, value=7}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:16 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 51 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='60', itens='[Item{peso=8, value=6}, Item{peso=8, value=7}, Item{peso=8, value=6}, Item{peso=9, value=8}, Item{peso=8, value=9}, Item{peso=9, value=8}, Item{peso=8, value=7}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='49', itens='[Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=6}, Item{peso=8, value=7}, Item{peso=8, value=6}, Item{peso=8, value=6}, Item{peso=8, value=3}, Item{peso=9, value=3}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:18 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 52 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='71', itens='[Item{peso=8, value=7}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=7}, Item{peso=8, value=7}, Item{peso=9, value=9}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='60', itens='[Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=8, value=1}, Item{peso=8, value=4}, Item{peso=8, value=5}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:20 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 53 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='70', itens='[Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=7}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='69', itens='[Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=6}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:22 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 54 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='68', itens='[Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='58', itens='[Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=9, value=4}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:24 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 55 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='73', itens='[Item{peso=8, value=3}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='68', itens='[Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:26 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 56 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='71', itens='[Item{peso=9, value=7}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=7}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=8}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='64', itens='[Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=5}, Item{peso=9, value=3}, Item{peso=8, value=7}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:27 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 57 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='60', valorTotal='63', itens='[Item{peso=8, value=8}, Item{peso=9, value=7}, Item{peso=8, value=7}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='56', itens='[Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=5}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:29 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 58 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='77', itens='[Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='77', itens='[Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=9}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:32:31 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 59 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='72', itens='[Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=9, value=8}, Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='67', itens='[Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=7}, Item{peso=8, value=5}, Item{peso=8, value=5}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:32 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 60 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:34 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 61 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='61', valorTotal='74', itens='[Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='71', itens='[Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:35 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 62 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='65', valorTotal='83', itens='[Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='65', valorTotal='83', itens='[Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:32:37 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 63 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='79', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=7}, Item{peso=8, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='74', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:39 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 64 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='72', itens='[Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=8}, Item{peso=9, value=8}, Item{peso=8, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='56', itens='[Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=3}, Item{peso=8, value=2}, Item{peso=9, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:41 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 65 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='68', itens='[Item{peso=9, value=8}, Item{peso=8, value=6}, Item{peso=8, value=6}, Item{peso=8, value=6}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='56', itens='[Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=9, value=7}, Item{peso=9, value=1}, Item{peso=8, value=6}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:43 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 66 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='72', itens='[Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=4}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='71', itens='[Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:44 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 67 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='73', itens='[Item{peso=9, value=11}, Item{peso=8, value=6}, Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=7}, Item{peso=9, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='62', valorTotal='69', itens='[Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=9, value=9}, Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:46 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 68 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='66', itens='[Item{peso=9, value=7}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=6}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=6}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='54', itens='[Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=1}, Item{peso=9, value=6}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:48 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 69 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='70', itens='[Item{peso=8, value=7}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=8}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=7}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='61', itens='[Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=5}, Item{peso=8, value=6}, Item{peso=9, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:50 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 70 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='79', itens='[Item{peso=9, value=7}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='77', itens='[Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=5}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:52 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 71 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='76', itens='[Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=6}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='74', itens='[Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=4}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:54 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 72 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='65', valorTotal='75', itens='[Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='65', valorTotal='75', itens='[Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=9}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:32:55 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 73 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=7}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='72', itens='[Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:57 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 74 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='73', itens='[Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=7}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=7}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='68', itens='[Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:32:59 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 75 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='81', itens='[Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='79', itens='[Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:01 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 76 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='78', itens='[Item{peso=9, value=8}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=7}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:02 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 77 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='77', itens='[Item{peso=8, value=5}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='71', itens='[Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:04 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 78 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=8, value=10}, Item{peso=8, value=7}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=8}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='68', itens='[Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=9, value=6}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:06 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 79 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='66', itens='[Item{peso=8, value=4}, Item{peso=8, value=7}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='66', itens='[Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=9, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:08 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 80 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='77', itens='[Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='77', itens='[Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=9}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:33:10 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 81 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='65', valorTotal='74', itens='[Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='65', valorTotal='74', itens='[Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=8}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:33:12 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 82 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='79', itens='[Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=8}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='79', itens='[Item{peso=9, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:13 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 83 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='74', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=7}, Item{peso=9, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='71', itens='[Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=9}, Item{peso=9, value=8}, Item{peso=8, value=4}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:15 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 84 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='69', itens='[Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=7}, Item{peso=8, value=8}, Item{peso=8, value=5}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='63', itens='[Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=6}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:17 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 85 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='71', itens='[Item{peso=8, value=5}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='67', itens='[Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:19 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 86 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='65', valorTotal='78', itens='[Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=8}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='64', valorTotal='78', itens='[Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:20 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 87 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='76', itens='[Item{peso=9, value=8}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=8}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='65', valorTotal='67', itens='[Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=9, value=11}, Item{peso=8, value=6}, Item{peso=8, value=1}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:22 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 88 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='81', itens='[Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='81', itens='[Item{peso=9, value=11}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:33:24 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 89 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='64', valorTotal='79', itens='[Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=10}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='64', valorTotal='77', itens='[Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:26 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 90 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='72', itens='[Item{peso=8, value=7}, Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=8, value=7}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='64', itens='[Item{peso=9, value=9}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=8, value=10}, Item{peso=9, value=10}, Item{peso=9, value=6}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:28 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 91 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='75', itens='[Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=9, value=7}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='73', itens='[Item{peso=9, value=10}, Item{peso=8, value=11}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=5}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:29 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 92 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}, Item{peso=8, value=8}, Item{peso=8, value=11}, Item{peso=8, value=9}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='67', itens='[Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=9, value=11}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:31 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 93 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='66', valorTotal='78', itens='[Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=11}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='75', itens='[Item{peso=9, value=9}, Item{peso=8, value=9}, Item{peso=8, value=9}, Item{peso=8, value=10}, Item{peso=8, value=8}, Item{peso=9, value=11}, Item{peso=8, value=11}, Item{peso=8, value=8}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:33 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 94 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='71', itens='[Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=9, value=10}]'}
+Solucao Guloso: { pesoTotal='67', valorTotal='71', itens='[Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=8, value=8}, Item{peso=8, value=8}, Item{peso=8, value=9}, Item{peso=9, value=9}, Item{peso=9, value=10}, Item{peso=9, value=10}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:33:34 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 95 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='62', valorTotal='70', itens='[Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='62', valorTotal='70', itens='[Item{peso=8, value=10}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=9}]'}
+Teste finalizado com SUCESSO.
+mai 12, 2022 4:33:36 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 96 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='67', itens='[Item{peso=9, value=9}, Item{peso=8, value=5}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=2}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='61', itens='[Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=9, value=1}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:38 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 97 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='62', valorTotal='63', itens='[Item{peso=9, value=9}, Item{peso=9, value=7}, Item{peso=9, value=7}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=9}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='61', valorTotal='53', itens='[Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=9, value=9}, Item{peso=9, value=11}, Item{peso=9, value=2}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:39 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 98 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='61', valorTotal='71', itens='[Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=10}, Item{peso=9, value=11}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='68', itens='[Item{peso=8, value=8}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=9}, Item{peso=9, value=10}, Item{peso=9, value=11}, Item{peso=8, value=10}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:41 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 99 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='67', valorTotal='77', itens='[Item{peso=9, value=8}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='66', valorTotal='77', itens='[Item{peso=8, value=8}, Item{peso=8, value=10}, Item{peso=8, value=11}, Item{peso=9, value=9}, Item{peso=8, value=11}, Item{peso=8, value=10}, Item{peso=8, value=9}, Item{peso=9, value=9}]'}
+Teste finalizado com FALHA.
+mai 12, 2022 4:33:43 PM TesteMochila beforeEach
+INFORMAÇÕES: About to execute repetition 100 of 100 for testaSolucaoMochila
+Solucao forca bruta: { pesoTotal='62', valorTotal='64', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=9, value=8}, Item{peso=9, value=8}, Item{peso=8, value=8}, Item{peso=9, value=9}]'}
+Solucao Guloso: { pesoTotal='60', valorTotal='51', itens='[Item{peso=9, value=11}, Item{peso=9, value=10}, Item{peso=9, value=10}, Item{peso=8, value=8}, Item{peso=9, value=9}, Item{peso=8, value=1}, Item{peso=8, value=2}]'}
+Teste finalizado com FALHA.
